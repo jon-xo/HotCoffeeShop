@@ -1,7 +1,7 @@
-﻿using CoffeeShop.Models;
+﻿using HotCoffeeShop.Models;
 using System.Collections.Generic;
 
-namespace CoffeeShop.Repositories
+namespace HotCoffeeShop.Repositories
 {
 				public interface IBeanVarietyRepository
 				{

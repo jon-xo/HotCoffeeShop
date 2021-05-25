@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
-using CoffeeShop.Models;
+using HotCoffeeShop.Models;
 
-namespace CoffeeShop.Repositories
+namespace HotCoffeeShop.Repositories
 {
 				public class BeanVarietyRepository : IBeanVarietyRepository
 				{

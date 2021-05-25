@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using CoffeeShop.Models;
-using CoffeeShop.Repositories;
+using HotCoffeeShop.Repositories;
 
 namespace CoffeeShop.Controllers
 {
